@@ -10,7 +10,7 @@ Voor WhatsApp is de huiskamer [hier te vinden](https://chat.whatsapp.com/K1Z4r7P
 
 ## Signal
 
-Voor Signal is er geen community mogelijkheid, dus zul je de groepen die je interessant vind los moeten joinen:
+Voor Signal is er geen community mogelijkheid, dus zul je de groepen die je interessant vindt los moeten joinen:
 
 * [Swimrun Huiskamer](https://signal.group/#CjQKIPd6whar_w-rTcJ8n9ER-8Nk-dY5hBraQSZwI_7TJESPEhA5Ixg4Vjo8ZcTEBMsRQNfG)
 * [Garmintalk/challenges](https://signal.group/#CjQKIAosHLa6urn4NW57ahwhJOuWCJLzqasxJJEUzfwBUBiGEhA7fjAtEztg5ssDlQeMZaQ2)
