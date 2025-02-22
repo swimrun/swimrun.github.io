@@ -18,19 +18,27 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Swimrun Nederland
-#email: your-email@example.com
+
+title: Swimrun Huiskamer
 description: >- # this means to ignore newlines until "baseurl:"
-    Community for Swimrun Nederland
+    De huiskamer voor Swimrun Nederland
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+show_downloads: false
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+github:
+    is_project_page: false
+
 # Build settings
-theme: minima
+#theme: minima
+#plugins:
+#  - jekyll-feed
+
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
