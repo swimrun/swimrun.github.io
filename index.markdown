@@ -1,12 +1,11 @@
 ---
 layout: default
+title: 'swimrun.group'
 ---
 
 We zijn te vinden via WhatsApp en Signal. Via een Relay zijn de groepen aan elkaar gekoppeld, dus maakt het niet uit welke app je gebruikt.
 
-## Nederlandse Ötillö Uitslagen
-
-Voor een overzicht van Nederlandse deelnemers aan het WK Swimrun bij de Ötillö 'Stockholm' aller tijden en ook uitslagen andere Ötillö wedstrijden vanaf 2025 kun je [hier de resultaten bekijken](https://swimrun.group/otillonl/).
+![Swimrun Huiskamer](/swimrun-huiskamer.webp){: style="float: right; max-width: 200px; height: auto; margin: 0 0 20px 20px; border-radius: 8px;"}
 
 ## WhatsApp
 
@@ -26,3 +25,7 @@ Voor Signal is er geen community mogelijkheid, dus zul je de groepen die je inte
 * [Swimrunners Noord Nederland](https://signal.group/#CjQKIFDgD9CDbm2t3AUex-fdmV3_qHlhPy1GumFcE5IYcEfNEhB9mTmxo6L3fstPKQiWOZfe)
 * [Wadden SwimRun](https://signal.group/#CjQKIMqJ211WAtWvihNnCXBfkKB9pyA2SdvTljYiLitZ_rcfEhBlaEMgMI8Fwp9NXtpNGIB-)
 * [Admin](https://signal.group/#CjQKIMYzFBUUWJWqfHQfgIPYyG4VKJlD3dH5sVJLuW7SvmUVEhCNF3HNGZ6JV_RTCmzW-qYy)
+
+## Nederlandse Ötillö Uitslagen
+
+Voor een overzicht van Nederlandse deelnemers aan het WK Swimrun bij de Ötillö 'Stockholm' aller tijden en ook uitslagen de andere Ötillö wedstrijden vanaf 2025 kun je [hier de resultaten bekijken](https://swimrun.group/otillonl/).
